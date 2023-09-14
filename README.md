@@ -1,4 +1,4 @@
-- 👋 Hi, I’m José T. HAGBE , I have Master degree in mathmatic
+- 👋 Hi, I’m José T. HAGBE , I have completed a Master degree in mathmatic
 - 👀 I’m interested in deep learning 
 - 🌱 I’m currently learning deep learning 
 - 💞️ I’m looking to collaborate on deep learning projet /data sciences 
